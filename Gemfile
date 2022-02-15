@@ -19,6 +19,7 @@ gem 'jwt', '~> 2.3'
 gem 'active_model_serializers', '~> 0.10.13'
 gem 'will_paginate', '~> 3.3', '>= 3.3.1'
 gem 'faker', '~> 2.19'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
@@ -43,7 +44,7 @@ end
 group :test do
   gem 'factory_bot_rails'
   gem 'shoulda-matchers', '~> 5.0'
-  #gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
+# gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
   gem 'database_cleaner-active_record'
 end
 
