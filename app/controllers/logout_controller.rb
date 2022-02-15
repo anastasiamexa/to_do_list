@@ -1,4 +1,5 @@
 class LogoutController < ApplicationController
+
   skip_before_action :authorize_request, only: :logout
 
   def logout
