@@ -44,7 +44,7 @@ end
 group :test do
   gem 'factory_bot_rails'
   gem 'shoulda-matchers', '~> 5.0'
-#  gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
+# gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
   gem 'database_cleaner-active_record'
 end
 
