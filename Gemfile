@@ -17,7 +17,7 @@ gem 'puma', '~> 5.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'jwt', '~> 2.3'
 gem 'active_model_serializers', '~> 0.10.13'
-
+gem 'will_paginate', '~> 3.3', '>= 3.3.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
