@@ -91,6 +91,7 @@ GEM
       activesupport (>= 5.0)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
+    jwt (2.3.0)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -189,6 +190,7 @@ DEPENDENCIES
   database_cleaner-active_record
   factory_bot_rails
   faker!
+  jwt (~> 2.3)
   listen (~> 3.3)
   puma (~> 5.0)
   rails (~> 6.1.4, >= 6.1.4.4)
