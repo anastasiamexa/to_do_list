@@ -3,8 +3,8 @@
 This is a REST API, made with Ruby on Rails, for managing a Todo list. 
 It uses ActiveRecord for CRUD operations and JWT for authentication.
 
-Described below are the functionalities we created:
-POST /signup    Signup
+Described below are the functionalities we created: \n
+POST /signup    Signup \n 
 POST /auth/login    Login
 GET /auth/logout    Logout
 GET /todos    List all todos
