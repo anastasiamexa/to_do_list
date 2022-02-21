@@ -1,3 +1,5 @@
+# Todo list
+
 This is a REST API, made with Ruby on Rails, for managing a Todo list. 
 It uses ActiveRecord for CRUD operations and JWT for authentication.
 
@@ -29,8 +31,9 @@ https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-r
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three
 
 
-Instructions
-# For local deployment:
+# Instructions
+
+For local deployment:
 
 Clone the repo (git clone git@github.com:anastasiamexa/to_do_list.git)
 Run bundle install
