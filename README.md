@@ -20,20 +20,20 @@ We developed the 'main' branch locally (using an Ubuntu terminal) with SQlite3 a
 Meanwhile, the 'heroku' branch has some needed changes (most notably using PostgreSQL instead of SQlite3) in order to be able to be deployed on heroku. <br />
 
 This was made as a university project, and meant for learning about RESTful API development.  <br />
-Group members: <br />
+## Group members: <br />
 https://github.com/anastasiamexa <br />
 https://github.com/NancyKomm <br />
 https://github.com/VasPasia <br />
 
-We closely followed this tutorial: <br />
+## We closely followed this tutorial: <br />
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one <br />
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two <br />
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three <br />
 
 
-###### Instructions
+## Instructions
 
-For local deployment:
+###### For local deployment:
 
 Clone the repo (git clone git@github.com:anastasiamexa/to_do_list.git) <br />
 Run bundle install <br />
