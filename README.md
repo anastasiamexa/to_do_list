@@ -30,7 +30,7 @@ https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-r
 
 
 Instructions
-**For local deployment: **
+# For local deployment:
 
 Clone the repo (git clone git@github.com:anastasiamexa/to_do_list.git)
 Run bundle install
